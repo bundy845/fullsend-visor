@@ -1,3 +1,5 @@
+> Historical discovery handoff. The approved scope and current implementation status are now maintained in [product.md](product.md), [architecture.md](architecture.md), and [roadmap.md](roadmap.md). The original text below is retained for context.
+
 # FullSend Dashboard / VR Project Handoff
 
 **Status:** Early planning  
